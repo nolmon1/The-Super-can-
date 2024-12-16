@@ -1,0 +1,37 @@
+﻿body {
+    margin:0px;
+}
+h1 {
+    font-size: 55px;
+    font-family: 'Eras ITC';
+    text-align: center;
+    font-weight: 800;
+    border: 00px;
+    padding: 10px;
+    margin: 0px;
+    background-color: mediumaquamarine;
+    color: #bb30e6;
+}
+      .main-text{
+          font-family: 'Eras ITC';
+          font-size: 20px;
+          background-color: tan;
+          border: 0px;
+          padding: 10px;
+          margin: 0px;
+          text-align: center;
+          
+      }
+.main-text2 {
+ text-align: left;
+    background-color: #bd6df5;
+}
+.problem-statement{
+    font-size: 30px;
+    font-weight:600;
+    font-family: 'Eras ITC';
+}
+.references{
+    color: white;
+    background:
+}

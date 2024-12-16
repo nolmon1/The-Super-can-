@@ -1,0 +1,12 @@
+﻿body
+{
+    h1{
+          font-size: 35px;
+          font-family: Arial;
+          text-align: center;
+          font-weight: bold;
+          border: 10px;
+          padding: 10px;
+          background-color: mediumaquamarine;
+      }
+}
